@@ -1,0 +1,35 @@
+.red {
+  display: flex;
+  justify-content: center;
+  color: aquamarine;
+}
+
+.snkImages {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 50px 50px;
+  margin: 100px 100px;
+}
+
+.firstImage {
+  max-height: 500px;
+  max-width: 500px;
+}
+
+.secondImage {
+  max-height: 500px;
+  max-width: 500px;
+}
+
+.theVideo {
+  display: flex;
+  justify-content: center;
+  width: 250px;
+  height: 200px;
+  margin: 100px;
+}
+
+.all {
+  background-color: black;
+}
